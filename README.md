@@ -1,2 +1,2 @@
-# test4
-연습용입니다.
+# sql class
+class, homework
